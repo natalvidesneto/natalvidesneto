@@ -1,7 +1,6 @@
 # Olá, me chamo Neto. Sou Engenhero de Software
-## Este perfil é apenas para estudos
 <div>
-  <h1>Skills</h1>
+  <h3>Skills</h3>
   <p>
   <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="C#" height="30" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -13,7 +12,7 @@
   <img align="center" alt="Kotlin" height="30" width="90" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   -->
   </p>
-  <h1>Ferramentas</h1>
+  <h3>Ferramentas</h3>
   <p>
   <img align="center" alt="Unity" height="30" width="90" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   <img align="center" alt="Itch.io" height="30" width="90" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
