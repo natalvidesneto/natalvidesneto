@@ -1,5 +1,6 @@
 # Olá, Mundo!
 ### Me chamo Neto. Sou Engenhero de Software formado pela Unicesumar
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=donut)
 <!--
 <div>
   <img src="" width="600" height="400">
