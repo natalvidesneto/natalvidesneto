@@ -2,7 +2,7 @@
 ### Me chamo Neto. Sou Engenhero de Software formado pela Unicesumar
 ---
 <div>
-  <img src="https://conteudo.imguol.com.br/c/entretenimento/24/2019/05/16/jogador-n-1-1558014112906_v2_900x506.jpg" width="900" height="400">
+  <img src="https://i.pinimg.com/originals/77/94/f3/7794f3b9605876804a91631072cddc81.jpg" width="600" height="400">
 </div>
 <div>
   <h3>Skills</h3>
