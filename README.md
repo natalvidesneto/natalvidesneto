@@ -1,9 +1,10 @@
 # Olá, Mundo!
 ### Me chamo Neto. Sou Engenhero de Software formado pela Unicesumar
----
+<!--
 <div>
-  <img src="https://i.pinimg.com/originals/77/94/f3/7794f3b9605876804a91631072cddc81.jpg" width="600" height="400">
+  <img src="" width="600" height="400">
 </div>
+-->
 <div>
   <h3>Skills</h3>
   <p>
