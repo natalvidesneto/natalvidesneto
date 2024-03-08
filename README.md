@@ -3,7 +3,14 @@
     <h1>Olá Mundo!</h1>
     <p>Me chamo Neto. Sou Engenhero de Software formado pela <strong><i>Unicesumar.</i></strong></p>
     <p><img src="https://i.pinimg.com/564x/2f/3e/07/2f3e0726b2e2bfff37e4528d0b46ff17.jpg"></p>
+
+<!--
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=compact" alt="Estatísticas de linguagens de programação"></p>
+-->
+
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=compact&langs_count=6&theme=tokyonight"/>
+
+    
   </header>
 </section>
 <section>
