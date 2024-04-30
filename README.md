@@ -53,9 +53,6 @@
                     <a href="https://natalvides.itch.io/">
                         <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Icone-perfil-da-Itch.io">
                     </a>
-                    <a href="mailto:natalvides.neto.01@gmail.com">
-                        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo-Gmail">
-                    </a>
                 </p>
             </li>
             <li>
