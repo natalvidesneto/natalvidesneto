@@ -28,18 +28,22 @@
                     Ferramentas
                 </h3>
                 <p>
+<!--
                     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Logo-Unity">
+-->
                     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Logo-SQLite">
                     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Logo-MYSQL">
                     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Logo-GIT">
+<!--
                     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Logo-Ubuntu">
                     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Logo-Windows">
                     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo-VS-Code">
                     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Logo-Visual-Studio">
-                    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Logo-Trello">
                     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Logo-Gimp">
                     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Logo-Canva">
                     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Logo-Blender">
+-->
+                    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Logo-Trello">
                 </p> 
             </li>
             <li>
@@ -61,6 +65,7 @@
                     <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=compact&langs_count=6&theme=tokyonight"/>
                 </p>
             </li>
+<!--
             <li>
                 <h3>Linguagens e ferramentas que estou Aprendendo</h3>
                 <p>
@@ -77,5 +82,6 @@
                     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Logo-Android">
                 </p>
             </li>
+-->
         </ul>   
     </div>
