@@ -35,11 +35,5 @@
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo-VS-Code">
             </p>
         </li>
-        <li>
-            <h3>Linguagens Usadas</h3>
-            <figure>
-                <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=compact&theme=radical" alt="Linguagens-Usadas">
-            </figure>
-        </li>
     </ul>
 </footer>
