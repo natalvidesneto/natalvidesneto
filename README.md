@@ -38,7 +38,7 @@
         <li>
             <h3>Linguagens Usadas</h3>
             <figure>
-                <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&theme=draculak&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens-Usadas">
+                <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens-Usadas">
             </figure>
         </li>
 </footer>
