@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌌 Olá Mundo!  
+# 🌌 Olá, eu sou o Neto!
 <img src="https://i.pinimg.com/564x/2f/3e/07/2f3e0726b2e2bfff37e4528d0b46ff17.jpg" alt="Wallpaper-Homem-na-Lua" width="400px">
 
 </div>
@@ -9,11 +9,12 @@
 
 ## 👨‍💻 Sobre Mim  
 <p align="justify">
-  Meu nome é Neto. Sou Engenheiro de Software no Brasil. Entrei no mundo da programação por acaso, sempre tive interesse em saber como eram feitos os jogos, programas e aplicativos que usava no computador.
+  Sou um profissional apaixonado por tecnologia, com formação em Engenharia de Software e especialização em Desenvolvimento Back-end. Minha trajetória é marcada pela busca constante por conhecimento e pela aplicação prática de soluções robustas e escaláveis.
 </p>
 
+## Objetivo 🎯
 <p align="justify">
-  Para minha surpresa, ao escrever meu primeiro código em <strong>C</strong>, foi como falar uma segunda língua — algo simples e direto. No fim, foi como descobrir um superpoder.
+  Desenvolver sistemas eficientes, seguros e de alta performance, contribuindo para projetos inovadores e desafios complexos no universo back-end.
 </p>
 
 ---
@@ -33,6 +34,10 @@
 </div>
 
 ---
+## Vamos conversar? 📩
+Adoraria trocar ideias sobre tecnologia, colaborar em projetos ou conectar-me com outros profissionais. Sinta-se à vontade para entrar em contato!
+
+- LinkedIn: https://www.linkedin.com/in/natalvides-neto-7703bb265/
 
 ## 🌟 **"Conhecimento é poder."**  
 </div>
