@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre Mim  
 <p align="justify">
-  Sou um profissional apaixonado por tecnologia, com formação em Engenharia de Software e especialização em Desenvolvimento Back-end. Minha trajetória é marcada pela busca constante por conhecimento e pela aplicação prática de soluções robustas e escaláveis.
+  Sou um entusiasta por tecnologia, com formação em Engenharia de Software e especialização em Desenvolvimento Back-end. Gosto de aprender e compreender o funcionamento das soluções desenvolvidas para aplicações no di a dia.
 </p>
 
 ## Objetivo 🎯
