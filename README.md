@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,py,java&theme=light" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,java&theme=light" alt="Tecnologias">
 </div>
 
 ---
