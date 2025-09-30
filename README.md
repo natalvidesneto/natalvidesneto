@@ -27,12 +27,19 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalvidesneto&show_icons=true&theme=radical&hide_border=true&random=12345" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&theme=dark&hide_border=true&layout=compact&random=12345" />
 </div>
-
+-->
+<!--Update-->
+![Natal's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalvidesneto&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalvidesneto&layout=compact&theme=radical)
+<!--
+![GitHub Streak](https://streak-stats.demolab.com/?user=natalvidesneto&theme=radical)
+-->
 ---
 ## Vamos conversar? 📩
 Adoraria trocar ideias sobre tecnologia, colaborar em projetos ou conectar-me com outros profissionais. Sinta-se à vontade para entrar em contato!
