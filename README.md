@@ -65,8 +65,6 @@
 <br />
 Adoraria trocar ideias sobre tecnologia, colaborar em projetos ou conectar-me com outros profissionais. Sinta-se à vontade para entrar em contato!
 
-* 🔗 LinkedIn: [https://www.linkedin.com/in/natalvides-neto-7703bb265/](https://www.linkedin.com/in/natalvides-neto-7703bb265/)
-
 ---
 <div align="center">
   
