@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🌌 Olá, eu sou o Neto!
-**Engenheiro de Software | Especialista Back-end**
+**Engenheiro de Software | Back-end Developer**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Desenvolvendo+soluções+eficientes;Entusiasta+em+tecnologia;Focado+em+Alta+Performance)](https://git.io/typing-svg)
 
