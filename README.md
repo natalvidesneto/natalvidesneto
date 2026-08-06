@@ -4,7 +4,7 @@
   # Olá, eu sou o Neto!
   **Engenheiro de Software | Desenvolvedor Back-end**
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=47A1FF&center=true&vCenter=true&width=435&lines=Desenvolvendo+soluções+eficientes;Focado+em+Alta+Performance)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=47A1FF&center=true&vCenter=true&width=435&lines=Node.JS;JavaScript;TypeScript)](https://git.io/typing-svg)
 
   </div>
 
