@@ -1,7 +1,6 @@
 <div>
   <div align="center">
-
-  # Olá, eu sou o Neto!
+    
   **Engenheiro de Software | Desenvolvedor Back-end**
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=47A1FF&center=true&vCenter=true&width=435&lines=Node.JS;JavaScript;TypeScript)](https://git.io/typing-svg)
