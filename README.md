@@ -11,8 +11,8 @@
   ---
 
   ### 📖 Sobre Mim
-  > Olá, me chamo Neto, gosto de tudo relacionado com a área de Tecnologia da Informação (TI). Meu objetivo é desenvolver sistemas que sejam seguros e escaláveis, seguindo boas práticas DevOps e testá-los seguindo os padrões QA.
-  > Sou formado em Engenharia de software e Pós-graduado em Desenvolvimento Back-end. Como desenvolvedor back-end, atuo na construção de APIs, gerenciamento de Banco de Dados e também na construção da modelagem da estrutura do software. 
+  > Olá, me chamo Neto, gosto de tudo relacionado com a área de Tecnologia da Informação (TI). Meu objetivo é desenvolver sistemas que sejam seguros e escaláveis, seguindo boas práticas DevOps e testá-los seguindo os padrões QA (Quality Assurance).
+  > Sou formado em Engenharia de software (Unicesumar) e Pós-graduado em Desenvolvimento Back-end (Unopar). Como desenvolvedor back-end, atuo na construção de APIs, gerenciamento de Banco de Dados e também na construção da modelagem da estrutura do software. 
 
   ### 🎯 Objetivo
   * 🚀 Desenvolver sistemas seguros e escaláveis.
