@@ -11,18 +11,17 @@
   ---
 
   ### 📖 Sobre Mim
-  > Sou formado em Engenharia de Software pela Unicesumar e pós-graduado em Desenvolvimento Back-end pela Unopar. Desenvolvo sistemas em JavaScript, atuando principalmente no back-end para criar ótimas soluções para os problemas do dia a dia. Tenho foco especial na criação de APIs REST seguras, mas também gosto de atuar no front-end quando necessário. 
+  > Sou formado em Engenharia de Software (Unicesumar) e pós-graduado em Desenvolvimento Back-end (Unopar). Desenvolvo sistemas em JavaScript, atuando principalmente no back-end. 
 
   ### 🎯 Objetivo
-  * 🚀 Desenvolver sistemas escaláveis e seguros.
+  * 🚀 Desenvolver sistemas seguros e escaláveis.
   * 🛠️ Contribuir em projetos Back-end.
-  * 💡 Inovar através de código limpo.
 
   ---
 
   ### 🛠️ Tech Stack
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,postgres,mongodb,supabase,docker,git,github,html,css,tailwind,bootstrap,vscode&theme=dark" alt="Tecnologias">
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,postgres,git,github,html,css,vscode&theme=dark" alt="Tecnologias">
   </div>
 
   ---
