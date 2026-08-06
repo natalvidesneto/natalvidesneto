@@ -11,7 +11,8 @@
   ---
 
   ### 📖 Sobre Mim
-  > Sou formado em Engenharia de Software (Unicesumar) e pós-graduado em Desenvolvimento Back-end (Unopar). Desenvolvo sistemas em JavaScript, atuando principalmente no back-end. 
+  > Olá, me chamo Neto, gosto de tudo relacionado com a área de Tecnologia da Informação (TI). Meu objetivo é desenvolver sistemas que sejam seguros e escaláveis, seguindo boas práticas DevOps e testá-los seguindo os padrões QA.
+  > Sou formado em Engenharia de software e Pós-graduado em Desenvolvimento Back-end. Como desenvolvedor back-end, atuo na construção de APIs, gerenciamento de Banco de Dados e também na construção da modelagem da estrutura do software. 
 
   ### 🎯 Objetivo
   * 🚀 Desenvolver sistemas seguros e escaláveis.
