@@ -10,7 +10,9 @@
   ---
 
   ### 📖 Sobre Mim
-  > Olá! Sou o Neto, sou formado em Engenheiro de Software e pós-graduado em Desenvolvimento Back-End. Desenvolvo projetos foco em JavaScript e TypeScript, gestão de bancos de dados (SQL e NoSQL) e automação de rotinas de CI/CD.
+  > Hello world!
+Sou o Neto, Formado em Engenharia de Software e Pós-Graduado em Desenvolvimento Back-End. Desenvolvo programas em JavaScript e Typescript, codando mais do lado backend desenvolvendo APIs, mas as vezes gosto de programar do lado frontend criando designs para sites, trabalhando com HTML, CSS, React e Vite. 
+
   ---
 
   ### 🛠️ Tech Stack
