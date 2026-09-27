@@ -24,21 +24,22 @@
   
   - DevOps & Implantação: Git, GitHub, Render, Netlify
 
-### 📖 About Me
-> Software Engineer & Back-End Developer
-
-I hold a Bachelor's degree in Software Engineering and a postgraduate qualification in Back-End Development. I specialize in developing web solutions and building REST APIs using Node.js and TypeScript within the JavaScript ecosystem. 
-
-🛠️ Stack & Tools:
-
-- Back-End: Node.js, Express, REST/RESTful APIs
-
-- Databases: PostgreSQL, MySQL, MongoDB, Supabase
-
-- Front-End: HTML5, CSS3, JavaScript, React
-
-- DevOps & Deployment: Git, GitHub, Render, Netlify
+  ### 📖 About Me
+  > Software Engineer & Back-End Developer
+  
+  I hold a Bachelor's degree in Software Engineering and a postgraduate qualification in Back-End Development. I specialize in developing web solutions and building REST APIs using Node.js and TypeScript within the JavaScript ecosystem. 
+  
+  🛠️ Stack & Tools:
+  
+  - Back-End: Node.js, Express, REST/RESTful APIs
+  
+  - Databases: PostgreSQL, MySQL, MongoDB, Supabase
+  
+  - Front-End: HTML5, CSS3, JavaScript, React
+  
+  - DevOps & Deployment: Git, GitHub, Render, Netlify
 
   ---
+  [LinkedIn](https://www.linkedin.com/in/natalvides-neto/)
 
 </div>
