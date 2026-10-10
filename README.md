@@ -19,17 +19,17 @@
 <details>
   <summary><b>🇧🇷 Português</b></summary>
   <br>
-  > Engenheiro de Software & Desenvolvedor Back-End
+  <h3>Engenheiro de Software & Desenvolvedor Back-End</h3>
 
-  Bacharel em Engenharia de Software e Pós-graduado em Desenvolvimento Back-End. Atuo no desenvolvimento de soluções web robustas e na construção de APIs REST de alta performance utilizando Node.js e TypeScript dentro do ecossistema JavaScript. Sou apaixonado por código limpo, arquitetura de sistemas e tecnologia.
+  <p>Formando em Engenharia de Software e Pós-graduado em Desenvolvimento Back-End. Atuo no desenvolvimento de soluções web, trabalhando diretamente na construção de APIs REST utilizando Node.js e TypeScript dentro do ecossistema JavaScript. Gosto de um código limpo, e uma arquitetura bem estruturada.</p>
 </details>
 
 <details>
   <summary><b>🇺🇸 English</b></summary>
   <br>
-  > Software Engineer & Back-End Developer
+  <h3>Software Engineer & Back-End Developer</h3>
 
-  I hold a Bachelor's degree in Software Engineering and a postgraduate qualification in Back-End Development. I specialize in developing robust web solutions and building high-performance REST APIs using Node.js and TypeScript within the JavaScript ecosystem. Passionate about clean code and system architecture.
+  <p>I hold a degree in Software Engineering and a postgraduate qualification in Back-End Development. I develop web solutions, working directly on building REST APIs using Node.js and TypeScript within the JavaScript ecosystem. I value clean code and well-structured architecture.</p>
 </details>
 
 ---
